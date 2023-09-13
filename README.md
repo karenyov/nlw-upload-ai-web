@@ -17,3 +17,8 @@ npm run lint
 //run
 npm run dev
 ```
+
+# Screenshots
+<p align="center">
+  <img src="https://github.com/karenyov/nlw-upload-ai-web/blob/main/app.png" width="700">
+</p>
